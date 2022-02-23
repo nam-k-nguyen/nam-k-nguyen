@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nam-k-nguyen
-- 👀 I’m interested in learning C++ and Python. I would also love to learn HTML, CSS, JavaScript and WordPress to elevate my Web Designing skill.
-- 🌱 I’m currently learning C++ and WordPress, while also familiarize myself with Git.
-- 💞️ I’m looking to collaborate on application and web development projects
-- 📫 How to reach me | nguye2nk@mail.uc.edu | my email.
+- 👀 I am interested in Web Development. Stuff like Node.js, Express.js, React, and more!
+- 🌱 I am learning everything I find interesting about Web Development. Currently, I am digging Puppeteer, a Node.js library for web scraping, testing, and automation!
+- 💞️ I love to collab on projects so if you need me, I can lend you a hand in your 💹 **million-dollar-idea** 💹 project!
+- 📫 You can reach me at nguye2nk@mail.uc.edu.
 
 <!---
 nam-k-nguyen/nam-k-nguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
