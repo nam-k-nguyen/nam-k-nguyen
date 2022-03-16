@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/GTKxV22/cover-image.png" style="width: 100vh;" />
+<div style="background: url(https://i.ibb.co/GTKxV22/cover-image.png); width: 100vw; height: 100vh" >hey</div>
 
 [<img width=100 height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />]: #
 
