@@ -1,7 +1,7 @@
 <center><img src="https://i.ibb.co/GTKxV22/cover-image.png" /></center>
 
-# <center> Hi, my name is <span style="color: rgb(242,134,48); font-weight: bold">Nam</span> </center> 
-#### <center> @nam-k-nguyen </center> 
+<div style="display: flex; justify-content: center"> Hi, my name is <span style="color: rgb(242,134,48); font-weight: bold">Nam</span> </div> 
+<code> @nam-k-nguyen </code> 
 
 ---
 
