@@ -1,6 +1,6 @@
 <center><img src="https://i.ibb.co/GTKxV22/cover-image.png" /></center>
 
-<div style="display: flex; justify-content: center"> Hi, my name is <span style="color: rgb(242,134,48); font-weight: bold">Nam</span> </div> 
+<center style="text-align: center"> Hi, my name is <span style="color: rgb(242,134,48); font-weight: bold">Nam</span> </center> 
 <code> @nam-k-nguyen </code> 
 
 ---
