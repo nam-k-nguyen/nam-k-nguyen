@@ -1,10 +1,5 @@
 <center><img src="https://i.ibb.co/GTKxV22/cover-image.png" /></center>
 
-
-
-[<img width=100 height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />]: #
-
-
 # <center> Hi, my name is <span style="color: rgb(242,134,48); font-weight: bold">Nam</span> </center> 
 #### <center> @nam-k-nguyen </center> 
 
