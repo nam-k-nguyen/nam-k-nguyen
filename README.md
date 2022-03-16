@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width=500 height=500 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
