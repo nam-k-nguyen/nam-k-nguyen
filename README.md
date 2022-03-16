@@ -10,5 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div style="background: rgb(242,134,48); padding: 2px; width: 400px; height: 400px;">
-  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
 </div>
+
+<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
