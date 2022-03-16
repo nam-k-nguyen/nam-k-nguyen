@@ -1,6 +1,12 @@
+<style>
+  .center {
+    color: blue;
+  }
+</style>
+
 <center><img src="https://i.ibb.co/GTKxV22/cover-image.png" /></center>
 
-<div style="color: blue;" align="center">Center</div>
+<div class="center" align="center">Center</div>
 
 <center style="background: blue; text-align: center;"> Hi, my name is <span style="color: rgb(242,134,48); font-weight: bold">Nam</span> </center> 
 
