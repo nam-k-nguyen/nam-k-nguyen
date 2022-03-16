@@ -9,6 +9,6 @@ nam-k-nguyen/nam-k-nguyen is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<svg width="1000" height="1000">
-  <circle cx="80" cy="80" r="50" fill="green"></circle>
-</svg>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
