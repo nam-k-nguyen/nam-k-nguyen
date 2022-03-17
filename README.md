@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  Hi, my name is <span style="color: orange; font-weight: bold">Nam</span>
+  <h2>Hi, my name is <span>Nam</span></h2>
   <br>
   <div><code> @nam-k-nguyen </code></div>
 </div> 
