@@ -2,8 +2,8 @@
 
 <div align="center">
   Hi, my name is <span style="color: rgb(242,134,48); font-weight: bold">Nam</span>
+  <code> @nam-k-nguyen </code> 
 </div> 
-<code> @nam-k-nguyen </code> 
 
 ---
 
@@ -13,7 +13,8 @@
 - 📫 You can reach me at nguye2nk@mail.uc.edu.
 
 ---
-<span align="center">
+<div align="center">
+<span>
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html"/>
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css"/>
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js"/>
@@ -25,4 +26,4 @@
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react"/>
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="node"/>
 </span>
-
+</div>
