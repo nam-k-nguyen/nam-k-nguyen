@@ -46,19 +46,24 @@
 
 ## 🔥 Github Streak
 
-<a href="https://git.io/streak-stats" align="center">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nam-k-nguyen&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&fire=EF6030&ring=EF6030&dates=EF6030&sideLabels=F7DE32&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&background=09131B" />
-</a>
+<div align="center">
+  <a href="https://git.io/streak-stats" align="center">
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nam-k-nguyen&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&fire=EF6030&ring=EF6030&dates=EF6030&sideLabels=F7DE32&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&background=09131B" />
+  </a>
+</div>
   
 ## 📈 Github Stats
 
-<a href="https://git.io/streak-stats" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nam-k-nguyen&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true" />
-</a>
-
+<div align="center">
+  <a href="https://git.io/streak-stats" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nam-k-nguyen&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true" />
+  </a>
+</div>
   
 ## 📊 Github Most Used Languages
 
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-k-nguyen&theme=codeSTACKr"/>
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-k-nguyen&theme=codeSTACKr"/>
+  </a>
+</div>
