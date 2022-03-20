@@ -46,4 +46,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nam-k-nguyen&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Nam Nguyen's Github stats](https://github-readme-stats.vercel.app/api?username=nam-k-nguyen&show_icons=true)
+![Nam Nguyen's Github stats](https://github-readme-stats.vercel.app/api?username=nam-k-nguyen&show_icons=true&theme=codeSTACKr)
