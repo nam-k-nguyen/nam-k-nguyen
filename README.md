@@ -52,9 +52,10 @@
   
 ## 📈 Github Stats
 
-<div align="center">
-![Nam Nguyen's Github stats](https://github-readme-stats.vercel.app/api?username=nam-k-nguyen&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true)
-</div>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nam-k-nguyen&show_icons=true&theme=codeSTACKr&count_private=true&include_all_commits=true" />
+</a>
+
   
 ## 📊 Github Most Used Languages
 
