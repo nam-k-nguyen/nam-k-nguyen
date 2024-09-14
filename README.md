@@ -35,10 +35,8 @@
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="cpp"/>&nbsp;
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="react"/>&nbsp;
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="node" title="node"/>&nbsp; 
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" title="tailwind"/>&nbsp;
-</span>
-
-  
+<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" title="tailwind"/>&nbsp;
+</span>  
 </div>
 
 <br>
